@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raid>
+	<announce delay="1000" type="event" message="Beware! Beware of the Demodras!" />
+	<!--Single Spawns-->
+	<singlespawn delay="1000" name="Demodras" x="32788" y="32337" z="12" />
+	<!--Area Spawns-->
+</raid>

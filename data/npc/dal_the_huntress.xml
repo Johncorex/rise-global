@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Dal the Huntress" walkinterval="2000" floorchange="0" walkradius="1" script="custom/burocrata.lua">
+	<health now="100" max="100" />
+	<look type="137" head="42" body="41" legs="63" feet="117" addons="3" />
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_buyable" value="brown mushroom, 2789, 10;" />
+		<parameter key="shop_sellable" value="Ape Fur, 5883, 120;" />
+	</parameters>
+</npc>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<event name="Final de Semana" startdate="04/16/2021" enddate="04/25/2021" script="display_event.lua" >
+		<ingame exprate="500" lootrate="500" spawnrate="100" skillrate="500" />
+		<description description="Double loot final de semana." />
+		<colors colordark="#735D10" colorlight="#8B6D05" />
+		<details displaypriority="1" isseasonal="0" specialevent="0" />
+	</event>
+</events>

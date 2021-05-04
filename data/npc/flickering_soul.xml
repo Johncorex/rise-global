@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Flickering Soul" script="flickering_soul.lua" walkinterval="2000" floorchange="0">
+	<health max="100" now="100"/>
+	<look type="1219" head="6" body="6" legs="46" feet="46" addons="0" mount="0"/>
+	<parameters>
+		<!--MESSAGES-->
+		<parameter key="message_greet" value="Be greeted, living soul!"/>
+		<parameter key="message_farewell" value="Good bye, |PLAYERNAME|."/>
+		<parameter key="message_idletimeout" value="Good bye."/>
+		<parameter key="message_walkaway_male" value="Good bye sir."/>
+		<parameter key="message_walkaway_female" value="Good bye lady."/>
+
+	</parameters>
+</npc>

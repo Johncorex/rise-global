@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Sauron, The Imbuimenter" walkinterval="2000" floorchange="0" walkradius="1" script="custom/sauron.lua">
+	<health now="100" max="100" />
+	<look type="1322" head="0" body="94" legs="132" feet="18" addons="2" />
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_buyable" value="
+		protective charm, 12400, 15000;
+		sabretooth, 11228, 15000;
+		vexclaw talons, 25384, 15000;
+		
+		vampire teeth, 10602, 15000;
+		bloody pincers, 10550, 15000;
+		piece of dead brain, 10580, 15000;
+		
+		rope belts, 12448, 15000;
+		silencer claws, 22534, 15000;
+		some grimeleech wings, 25386, 15000;
+		
+		cyclops toe, 10574, 15000;
+		ogre nose rings, 24845, 15000;
+		warmaster's wristguards, 11322, 15000;
+		
+		piece of scarab shell, 10558, 15000;
+		brimstone shells, 12659, 15000;
+		frazzle skins, 22533, 15000;
+		
+		Orc Tooth, 11113, 15000;
+		Battle Stones, 12403, 15000;
+		Moohtant Horns, 23571, 15000;
+		
+		elvish talisman, 10552, 15000;
+		broken shamanic staff, 12408, 15000;
+		strand of medusa hair, 11226, 15000;
+
+		Elven Scouting Glasses, 12420, 15000;
+		Elven Hoofs, 21311, 15000;
+		Metal Spikes, 11215, 15000;
+
+		Lion's Mane, 10608, 15000;
+		Mooh'tah Shells, 23573, 15000;
+		War Crystals, 10571, 15000;
+
+		Fairy Wings, 28999, 15000;
+		Little Bowl of Myrrhs, 29007, 15000;
+		Goosebump Leather, 22539, 15000;
+
+		Damselfly Wings, 19738, 15000;
+		Compasses, 11219, 15000;
+		Waspoid Wings, 15484, 15000;
+
+		Wereboar Hooves, 24709, 15000;
+		Crystallized Angers, 26163, 15000;
+		Quills, 33314, 15000;
+
+		Rorc Feathers, 21310, 15000;
+		Peacock Feather Fans, 24631, 15000;
+		Energy Vein, 26164, 15000;
+		
+		Frosty Hearts, 10578, 15000;
+		Seacrest Hairs, 24170, 15000;
+		Polar Bear Paws, 10567, 15000;
+
+		Pile of Grave Earth, 12440, 15000;
+		Demonic Skeletal Hands, 10564, 15000;
+		Petrified Screams, 11337, 15000;
+
+		Fiery Hearts, 10553, 15000;
+		Green Dragon Scales, 5920, 15000;
+		Demon Horns, 5954, 15000;
+
+		Swamp Grasses, 10603, 15000;
+		Poisonous Slimes, 10557, 15000;
+		Slime Hearts, 23565, 15000;
+
+		Wyvern Talismans, 10561, 15000;
+		Crawler Head Platings, 15482, 15000;
+		Wyrm Scales, 10582, 15000;
+
+		Cultish Robes, 10556, 15000;
+		Cultish Masks, 10555, 15000;
+		Hellspawn Tails, 11221, 15000;
+		
+		Green Dragon Leathers, 5877, 15000;
+		Blazing Bones, 18425, 15000;
+		Draken Sulphurs, 12614, 15000;
+
+		Flask of Embalming Fluid, 12422, 15000;
+		Gloom Wolf Furs, 24663, 15000;
+		Mystical Hourglasses, 10577, 15000;
+
+
+		Winter Wolf Furs, 11212, 15000;
+		Thick Furs, 11224, 15000;
+		Deepling Warts, 15425, 15000;
+
+		Piece of Swampling Wood, 20103, 15000;
+		Snake Skins, 10611, 15000;
+		Brimstone Fangss, 12658, 15000;" />
+	</parameters>
+</npc>
